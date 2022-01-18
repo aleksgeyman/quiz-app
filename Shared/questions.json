@@ -1,0 +1,54 @@
+{
+    "questions" : [
+        {
+            "question" : "What part of the human body does glaucoma directly affect?",
+            "content" : [
+                "Ear",
+                "Nose",
+                "Throat",
+                "Eye"
+            ],
+            "correct" : 3
+        },
+        {
+            "question" : "What is the name of Tom Cruise's character in the \"Mission: Impossible\" movies?",
+            "content" : [
+                "Frank Mackey",
+                "Mitch McDeere",
+                "Joel Goodson",
+                "Ethan Hunt"
+            ],
+            "correct" : 3
+        },
+        {
+            "question" : "Which of these materials is used to make vests bulletproof?",
+            "content" : [
+                "Kevlar",
+                "Lycra",
+                "Gore-tex",
+                "Polystyrene"
+            ],
+            "correct" : 0
+        },
+        {
+            "question" : "To take advantage of the earth's rotation, NASA launches most of its rockets in what direction?",
+            "content" : [
+                "North",
+                "East",
+                "South",
+                "West"
+            ],
+            "correct" : 1
+        },
+        {
+            "question" : "On July 12, 2000, Russia launched a rocket into space bearing the corporate logo of what company?",
+            "content" : [
+                "Intel",
+                "Reebok",
+                "Budweiser",
+                "Pizza Hut"
+            ],
+            "correct" : 3
+        }
+    ]
+}
